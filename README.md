@@ -4,6 +4,8 @@ This basic Python script imports an IMDB movie .CSV file, performs some basic tr
 # Output:
 <img width="700" alt="Screenshot 2023-07-16 at 12 18 47 PM" src="output_example.png">
 
+Unsurprisingly, family and animation genres are bi-directionally associated with one another!
+
 # To-Do
 * Add UI where parameters can be defined by user
 * Create visual map of associations
